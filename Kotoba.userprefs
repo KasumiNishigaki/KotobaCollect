@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FadeOut.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ED.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MojiCollectManager.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/MenuButtonManager.cs" Line="23" Column="2" NotebookId="1" />
+      <File FileName="Assets/Scripts/PictureBookManager.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Scripts/TitleAnimation.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="Assets/Plugins/Pixelplacement/iTween/iTween.cs" Line="1" Column="1" NotebookId="1" />
+    </Files>
+    <FloatingWindows>
+      <FloatingWindow WindowId="1" X="124" Y="356" Width="640" Height="480">
+        <Files>
+          <File FileName="Assets/Scripts/FadeOut.cs" Line="1" Column="1" />
+        </Files>
+      </FloatingWindow>
+    </FloatingWindows>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
